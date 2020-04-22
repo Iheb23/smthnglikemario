@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgsound</file>
+    </qresource>
+</RCC>
